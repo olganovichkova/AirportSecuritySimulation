@@ -1,0 +1,20 @@
+removeFirst
+	addLast
+last
+removeFirst
+	addFirst
+	addFirst
+removeLast
+addLast
+addLast
+#last
+>=removeFirst
+>?addLast
+>Ilast
+>KremoveFirst
+>L	addFirst
+>P	addFirst
+>QremoveLast
+>RaddLast
+>SaddLast
+>Ylast

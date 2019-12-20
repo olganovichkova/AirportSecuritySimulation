@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2019-01-28T08:53:42" hostname="grifisaa-Latitude-7390" time="0.019">
+  <properties/>
+  <testcase name="testRemoveFirst_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testAddLast" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testAdd" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testGet" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testFirst_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testFirst" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testGet_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testGet_3" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testGet_4" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testGet_5" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testGet_6" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testLast" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testPrintList" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testRemoveFirst" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testAddFirst" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testRemove_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testRemove_3" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testRemove_4" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testAddFirst_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testRemoveLast" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testAddLast_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testAddLast_3" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testInsert_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testInsert_3" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testInsert_4" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testInsert_5" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.006"/>
+  <testcase name="testInsert" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testLast_2" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testRemove" classname="edu.isu.cs.cs3308.structures.impl.DoublyLinkedListTest" time="0.0"/>
+  <system-out><![CDATA[removeFirst
+addLast
+last
+removeFirst
+addFirst
+addFirst
+removeLast
+addLast
+addLast
+last
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

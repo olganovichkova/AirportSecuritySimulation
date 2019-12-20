@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2019-01-28T08:53:42" hostname="grifisaa-Latitude-7390" time="0.006">
+  <properties/>
+  <testcase name="testIsEmpty_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testIsEmpty_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPop" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testMerge" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPop_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPop_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPeek" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.001"/>
+  <testcase name="testPush" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testSize" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPrintStack" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testMerge_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testMerge_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testMerge_4" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testReverse" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPeek_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.001"/>
+  <testcase name="testPeek_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.001"/>
+  <testcase name="testPush_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testPush_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testSize_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testSize_3" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testTransfer_2" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <testcase name="testTransfer" classname="edu.isu.cs.cs3308.structures.impl.LinkedStackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
